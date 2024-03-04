@@ -8,3 +8,4 @@ The file handgesture.py containes the training code which extracts the data from
 
 
 The trained_model.pth is the final model as a result of the training. We can use the model directly also.
+![download](https://github.com/Sarangan-Raveendranathan/handgesture/assets/78191268/0f173bd0-e013-4b52-95e8-6e324eb49520)
